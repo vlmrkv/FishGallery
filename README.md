@@ -11,11 +11,11 @@
     An awesome mobile application for the company "Blue Rose".
     <br />
     <br />
-    <a href="https://github.com/{nickname}/{project_name">View Demo</a>
+    <a href="https://github.com/vlmrkv/FishGallery">View Demo</a>
     ·
-    <a href="https://github.com/{nickname}/{project_name}/issues">Report Bug</a>
+    <a href="https://github.com/vlmrkv/FishGallery/issues">Report Bug</a>
     ·
-    <a href="https://github.com/{nickname}/{project_name/issues">Request Feature</a>
+    <a href="https://github.com/vlmrkv/FishGallery/issues">Request Feature</a>
   </p>
 </div>
 
@@ -56,7 +56,7 @@ Modern mobile applications use modern libraries, and therefore we use the best l
 2. Select the menu item "File" -> "New" -> "Project from Version Control"
 3. Clone the repo
    ```sh
-   git clone https://github.com/{nickname}/{project_name}.git
+   git clone https://github.com/vlmrkv/FishGallery.git
    ```
 
 </br>
@@ -76,7 +76,7 @@ Modern mobile applications use modern libraries, and therefore we use the best l
 - [ ] Add more screens
 - [ ] Multi-language Support
 
-See the [open issues](https://github.com/{nickname}/{project_name}/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/vlmrkv/FishGallery/issues) for a full list of proposed features (and known issues).
 
 </br>
 
